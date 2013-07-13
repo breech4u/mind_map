@@ -1,0 +1,151 @@
+{
+  "title": "dfgdretr",
+  "id": 1,
+  "formatVersion": 2,
+  "ideas": {
+    "1": {
+      "title": "ertdfger",
+      "id": 3,
+      "ideas": {
+        "3": {
+          "title": "test 3",
+          "id": 21
+        },
+        "13": {
+          "title": "check here",
+          "id": 19,
+          "ideas": {}
+        }
+      },
+      "attr": {
+        "style": {
+          "background": "#ffcc99"
+        }
+      }
+    },
+    "2": {
+      "title": "c2e adf",
+      "id": 11,
+      "ideas": {
+        "1": {
+          "title": "ghj567fghh",
+          "ideas": {
+            "1": {
+              "title": "asdrewsa",
+              "id": 14,
+              "attr": {
+                "style": {
+                  "background": "#ffcc99"
+                }
+              }
+            },
+            "2": {
+              "title": "cowerc",
+              "id": 15,
+              "attr": {
+                "style": {
+                  "background": "#ffcc99"
+                }
+              }
+            },
+            "3": {
+              "title": "oweusces",
+              "id": 16,
+              "attr": {
+                "style": {
+                  "background": "#ffcc99"
+                }
+              }
+            },
+            "4": {
+              "title": "o cs scew cs",
+              "id": 17,
+              "attr": {
+                "style": {
+                  "background": "#ffcc99"
+                }
+              }
+            }
+          },
+          "id": 13,
+          "attr": {
+            "style": {
+              "background": "#ffcc99"
+            }
+          }
+        },
+        "2": {
+          "title": "test 2",
+          "id": 18
+        }
+      },
+      "attr": {
+        "style": {
+          "background": "#ffcc99"
+        }
+      }
+    },
+    "-1": {
+      "title": "ghj567fghh",
+      "id": 4,
+      "ideas": {
+        "1": {
+          "title": "asdrewsa",
+          "id": 6,
+          "attr": {
+            "style": {
+              "background": "#ffcc99"
+            }
+          }
+        },
+        "2": {
+          "title": "cowerc",
+          "id": 7,
+          "attr": {
+            "style": {
+              "background": "#ffcc99"
+            }
+          }
+        },
+        "3": {
+          "title": "oweusces",
+          "id": 8,
+          "attr": {
+            "style": {
+              "background": "#ffcc99"
+            }
+          }
+        },
+        "4": {
+          "title": "o cs scew cs",
+          "id": 9,
+          "attr": {
+            "style": {
+              "background": "#ffcc99"
+            }
+          }
+        }
+      },
+      "attr": {
+        "style": {
+          "background": "#ffcc99"
+        }
+      }
+    },
+    "-2": {
+      "title": "csd fsdfwf",
+      "id": 12,
+      "attr": {
+        "style": {
+          "background": "#ffcc99"
+        }
+      }
+    }
+  },
+  "attr": {
+    "style": {
+      "background": "#ffcc99"
+    }
+  },
+  "links": []
+}
